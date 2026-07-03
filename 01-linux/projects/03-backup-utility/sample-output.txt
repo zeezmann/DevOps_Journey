@@ -1,0 +1,12 @@
+=========================================
+           Backup Utility
+=========================================
+
+Backup completed successfully.
+
+Backup Location:
+/Users/zeezmann/backups/backup_2026-07-03_21-04-34.tar.gz
+
+=========================================
+          Backup Complete
+=========================================
