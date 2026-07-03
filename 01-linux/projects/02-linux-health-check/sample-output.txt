@@ -1,0 +1,59 @@
+=========================================
+         Linux Health Check
+=========================================
+
+Disk Usage
+----------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   460Gi    12Gi   309Gi     4%    459k  3.2G    0%   /
+
+Memory Usage
+------------
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     9747.
+Pages active:                                 350147.
+Pages inactive:                               352137.
+Pages speculative:                               459.
+Pages throttled:                                   0.
+Pages wired down:                             152431.
+Pages purgeable:                                6884.
+"Translation faults":                      471525559.
+Pages copy-on-write:                         4114166.
+Pages zero filled:                         373205755.
+Pages reactivated:                           9557580.
+Pages purged:                                4325614.
+File-backed pages:                            217580.
+Anonymous pages:                              485163.
+Pages stored in compressor:                   327545.
+Pages occupied by compressor:                 141905.
+Decompressions:                              6082094.
+Compressions:                                8943564.
+Pageins:                                    11191569.
+Pageouts:                                     153078.
+Swapins:                                           0.
+Swapouts:                                          0.
+Pages tagged:                                 122475.
+Pages tagged resident:                         90337.
+Pages tagged compressed:                       32138.
+Pages tag-storage:                             32768.
+Pages tag-storage holding tags:                 4982.
+Pages tag-storage free:                          154.
+Pages tag-storage non-tag pageable:            27563.
+Pages tag-storage non-tag wired:                  69.
+Bytes of compressed tags:                    4274048.
+Tagged compressions:                          627848.
+Tagged decompressions:                        506460.
+
+Internet Connectivity
+---------------------
+✓ Internet Connection Available
+
+Git
+✓ Installed
+
+SSH
+✓ Installed
+
+=========================================
+      Health Check Complete
+=========================================
