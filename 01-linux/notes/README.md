@@ -1,33 +1,21 @@
-# Notes
+# Linux Notes
 
-Add your notes here as you progress through this module.
+This directory contains my personal notes from studying Linux Fundamentals.
 
-## Template
+These notes are based on my hands-on learning through labs, virtual machines, WSL, and practical exercises. They are written in my own words to help reinforce my understanding and to serve as a quick reference when revising.
 
-When creating a new note, you can use this structure:
+## Topics
 
-```markdown
-# Topic Name
+- Linux File System
+- Users and Groups
+- File Permissions
+- Package Management
+- Process Management
+- Shells and Environment Variables
+- SSH
+- Essential Linux Commands
+- Linux Best Practices
 
-## Key Concepts
+## Purpose
 
-- Point 1
-- Point 2
-
-## Commands
-
-`command` - what it does
-
-## Examples
-
-(code examples)
-
-## What I Learned
-
-(your own summary)
-```
-
-## Your Notes
-
-- [ ] Add your first note
-
+The goal of these notes is not to replace official documentation, but to document what I've learned throughout my DevOps journey and create a knowledge base that I can revisit in the future.
