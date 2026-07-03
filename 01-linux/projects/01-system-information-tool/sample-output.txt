@@ -1,0 +1,65 @@
+=========================================
+      Linux System Information Tool
+=========================================
+
+System Information
+------------------
+Current User      : zeezmann
+Hostname          : MacBook-Air.local
+Operating System  : Darwin
+Kernel Version    : 25.5.0
+Architecture      : arm64
+Current Directory : /Users/zeezmann/DevOps_Journey/01-linux/projects/01-system-information-tool
+Current Date      : 03 July 2026
+Current Time      : 20:36:08
+System Uptime     : 20:36  up 20 days,  3:36, 2 users, load averages: 1.31 1.68 1.56
+
+Memory Information
+------------------
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                    11297.
+Pages active:                                 353392.
+Pages inactive:                               353740.
+Pages speculative:                              2330.
+Pages throttled:                                   0.
+Pages wired down:                             148642.
+Pages purgeable:                                8107.
+"Translation faults":                      470609696.
+Pages copy-on-write:                         4029156.
+Pages zero filled:                         372243168.
+Pages reactivated:                           9535837.
+Pages purged:                                4310202.
+File-backed pages:                            218967.
+Anonymous pages:                              490495.
+Pages stored in compressor:                   314521.
+Pages occupied by compressor:                 137628.
+Decompressions:                              6076799.
+Compressions:                                8924776.
+Pageins:                                    11174078.
+Pageouts:                                     152582.
+Swapins:                                           0.
+Swapouts:                                          0.
+Pages tagged:                                 124570.
+Pages tagged resident:                         94097.
+Pages tagged compressed:                       30473.
+Pages tag-storage:                             32768.
+Pages tag-storage holding tags:                 4992.
+Pages tag-storage free:                          180.
+Pages tag-storage non-tag pageable:            27527.
+Pages tag-storage non-tag wired:                  69.
+Bytes of compressed tags:                    4030016.
+Tagged compressions:                          625452.
+Tagged decompressions:                        505738.
+
+Disk Information
+----------------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   460Gi    12Gi   309Gi     4%    459k  3.2G    0%   /
+
+Network Information
+-------------------
+IP Address : 192.168.1.226
+
+=========================================
+           End of Report
+=========================================
