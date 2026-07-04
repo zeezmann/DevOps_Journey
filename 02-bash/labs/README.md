@@ -1,36 +1,35 @@
-# Labs
+# Bash Labs
 
-Document your completed labs here.
+This directory contains the practical Bash scripting exercises I completed while learning shell scripting.
 
-## Template
+Each lab focuses on applying one or more Bash concepts through hands-on practice. The aim is to reinforce the theory covered in the notes by writing, testing and troubleshooting real scripts.
 
-When documenting a lab, include:
+---
 
-```markdown
-# Lab: [Lab Name]
+## Lab Structure
 
-## Objective
+Each lab includes:
 
-What was the goal?
+- Objective
+- Environment
+- Commands Used
+- Tasks Completed
+- Challenges
+- Result
+- What I Learned
+- Real-World Relevance
 
-## Commands Used
-
-(the commands you ran)
-
-## Output
-
-(what happened)
-
-## Challenges
-
-Any issues you hit and how you solved them.
-
-## What I Learned
-
-Key takeaways from this lab.
-```
+---
 
 ## Completed Labs
 
-- [ ] Add your first lab
-
+- [ ] Variables
+- [ ] User Input
+- [ ] Conditional Statements
+- [ ] Loops
+- [ ] Functions
+- [ ] Arrays
+- [ ] Positional Parameters
+- [ ] Command Substitution
+- [ ] Exit Codes
+- [ ] Error Handling

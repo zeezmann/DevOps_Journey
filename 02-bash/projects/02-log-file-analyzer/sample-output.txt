@@ -1,0 +1,18 @@
+=========================================
+         Log File Analyzer
+=========================================
+
+
+Search Results
+--------------
+Jul  3 21:14:03 MacBook-Air login[24382]: DEAD_PROCESS: 24382 ttys000
+Jul  3 21:14:43 MacBook-Air login[32423]: USER_PROCESS: 32423 ttys000
+Jul  3 21:14:46 MacBook-Air login[32423]: DEAD_PROCESS: 32423 ttys000
+Jul  3 21:14:49 MacBook-Air login[32484]: USER_PROCESS: 32484 ttys000
+Jul  3 21:15:28 MacBook-Air login[32484]: DEAD_PROCESS: 32484 ttys000
+Jul  4 18:38:47 MacBook-Air loginwindow[407]: USER_PROCESS: 407 console
+Jul  4 18:46:21 MacBook-Air login[1561]: USER_PROCESS: 1561 ttys000
+
+=========================================
+         Search Complete
+=========================================

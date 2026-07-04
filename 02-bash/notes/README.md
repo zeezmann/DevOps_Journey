@@ -1,33 +1,29 @@
-# Notes
+# Bash Notes
 
-Add your notes here as you progress through this module.
+This directory contains my personal Bash notes taken while studying shell scripting.
 
-## Template
+The notes focus on understanding the concepts rather than simply memorising commands. They are written in my own words and supported by practical examples from labs and projects.
 
-When creating a new note, you can use this structure:
+---
 
-```markdown
-# Topic Name
+## Topics
 
-## Key Concepts
+- Variables
+- User Input
+- Conditional Statements
+- Loops
+- Functions
+- Arrays
+- Positional Parameters
+- Command Substitution
+- Exit Codes
+- File Operations
+- Text Processing
+- Error Handling
+- Bash Best Practices
 
-- Point 1
-- Point 2
+---
 
-## Commands
+## Purpose
 
-`command` - what it does
-
-## Examples
-
-(code examples)
-
-## What I Learned
-
-(your own summary)
-```
-
-## Your Notes
-
-- [ ] Add your first note
-
+These notes serve as a personal reference that I can revisit while building Linux automation scripts and future DevOps projects.

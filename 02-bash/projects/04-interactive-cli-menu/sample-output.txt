@@ -1,0 +1,32 @@
+=========================================
+        Interactive CLI Menu
+=========================================
+
+1. Show Current Date
+2. Show Current User
+3. Show Current Directory
+4. Show System Uptime
+5. Exit
+
+Choose an option: 4
+
+20:07  up  1:29, 2 users, load averages: 1.70 1.55 1.46
+
+Press Enter to continue...
+
+
+=========================================
+        Interactive CLI Menu
+=========================================
+
+1. Show Current Date
+2. Show Current User
+3. Show Current Directory
+4. Show System Uptime
+5. Exit
+
+Choose an option: 5
+
+
+Goodbye!
+

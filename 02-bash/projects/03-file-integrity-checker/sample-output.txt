@@ -1,0 +1,16 @@
+=========================================
+       File Integrity Checker
+=========================================
+
+
+MD5 Checksum
+------------
+bd037c69e2edee39b53a31d3987dbdb2  integrity-check.sh
+
+SHA256 Checksum
+---------------
+c3deebd1c7e8aefc5a1a14107dc74c3f48a090fb7c6dbc930e4ac0c4611b40d2  integrity-check.sh
+
+=========================================
+      Integrity Check Complete
+=========================================
