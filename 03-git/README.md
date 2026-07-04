@@ -1,47 +1,39 @@
-# 03 - Git
+# Git
 
-Version control is a non-negotiable skill. Every company uses Git.
+## Overview
 
-## What You'll Learn
+This module documents my journey learning Git and GitHub while building my DevOps portfolio.
 
-- Repository basics (init, clone)
-- Staging and committing
-- Branching and merging
-- Handling merge conflicts
-- Working with remotes
-- Git workflows (GitFlow, trunk-based)
-- Collaboration with PRs
+Rather than only learning Git commands, I used Git every day to manage this repository across multiple computers, organise commits and maintain version history.
 
-## Folder Structure
+---
 
-```
-03-git/
-├── notes/       # Your notes from lessons
-├── labs/        # Completed lab exercises
-└── projects/    # Hands-on projects
-```
+## Module Structure
 
-## Suggested Projects
+- **notes/** – Core Git concepts explained in my own words and supported by real experience.
+- **labs/** – Practical exercises completed while learning Git.
+- **projects/** – Small projects demonstrating common Git workflows and version control practices.
 
-- [ ] Create a repo with a proper branching strategy
-- [ ] Simulate and resolve merge conflicts
-- [ ] Set up branch protection rules
-- [ ] Create a PR template
+---
 
-## Key Commands
+## Topics Covered
 
-```bash
-git status          # Check current state
-git add .           # Stage changes
-git commit -m ""    # Commit with message
-git push            # Push to remote
-git pull            # Pull from remote
-git branch          # List branches
-git checkout -b     # Create and switch branch
-git merge           # Merge branches
-```
+- Version Control
+- Git Repositories
+- Cloning Repositories
+- Working Tree
+- Staging Changes
+- Commits
+- Branching
+- Merging
+- Remote Repositories
+- Pulling Changes
+- Pushing Changes
+- Merge Conflicts
+- Git Best Practices
 
-## Resources
+---
 
-- [Git Documentation](https://git-scm.com/doc)
-- [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+## Goal
+
+The goal of this module is to develop confidence using Git for everyday software development and DevOps workflows while maintaining a professional project history.

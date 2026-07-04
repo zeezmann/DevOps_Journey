@@ -1,36 +1,35 @@
-# Labs
+# Git Labs
 
-Document your completed labs here.
+This directory contains the practical Git exercises I completed while learning version control.
 
-## Template
+Each lab focuses on a specific Git concept and includes the commands used, challenges encountered and what I learned.
 
-When documenting a lab, include:
+---
 
-```markdown
-# Lab: [Lab Name]
+## Lab Structure
 
-## Objective
+Each lab includes:
 
-What was the goal?
+- Objective
+- Environment
+- Commands Used
+- Tasks Completed
+- Challenges
+- Result
+- What I Learned
+- Real-World Relevance
 
-## Commands Used
-
-(the commands you ran)
-
-## Output
-
-(what happened)
-
-## Challenges
-
-Any issues you hit and how you solved them.
-
-## What I Learned
-
-Key takeaways from this lab.
-```
+---
 
 ## Completed Labs
 
-- [ ] Add your first lab
-
+- [ ] Repository Initialisation
+- [ ] Cloning Repositories
+- [ ] Tracking Changes
+- [ ] Commits
+- [ ] Branching
+- [ ] Merging
+- [ ] Remote Repositories
+- [ ] Push and Pull
+- [ ] SSH Authentication
+- [ ] Resolving Merge Conflicts

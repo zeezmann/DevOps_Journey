@@ -1,19 +1,31 @@
-# Projects
+# Git Projects
 
-Build hands-on projects to reinforce your learning.
+This directory contains practical Git projects completed while learning version control.
+
+These projects demonstrate how Git is used in real development workflows rather than simply memorising commands.
+
+---
 
 ## Project Structure
 
-Each project should have:
+Each project contains:
 
-```
-project-name/
-├── README.md       # What it does, how to run it
-├── script.sh       # Your code (or main file)
-└── examples/       # Example outputs (optional)
-```
+- README.md
+- Commands Used
+- Example Workflow
+- Sample Output (where applicable)
 
-## Your Projects
+---
 
-- [ ] Add your first project
+## Projects
 
+- [ ] Repository Setup Workflow
+- [ ] Branching Workflow
+- [ ] Collaboration Simulation
+- [ ] Release Workflow
+
+---
+
+## Purpose
+
+The purpose of these projects is to demonstrate practical Git workflows that are commonly used by software engineers and DevOps teams.
