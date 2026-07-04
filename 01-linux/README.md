@@ -1,32 +1,36 @@
-# 01 - Linux Fundamentals
+# Linux
 
-Linux is the foundation of DevOps. Most servers, containers, and cloud infrastructure run on Linux.
+## Overview
 
-## What You'll Learn
+This module documents my journey learning Linux as the foundation of my DevOps roadmap.
 
-- Navigating the file system
-- File permissions and ownership
-- Users and groups
-- Process management
-- Package management
-- Essential commands
+It covers the core concepts of Linux administration through personal notes, hands-on labs and practical projects that helped reinforce my understanding.
 
-## Folder Structure
+---
 
-```
-01-linux/
-├── notes/       # Your notes from lessons
-├── labs/        # Completed lab exercises
-└── projects/    # Hands-on projects
-```
+## Module Structure
 
-## Suggested Projects
+- **notes/** – Linux concepts explained in my own words.
+- **labs/** – Practical exercises completed while learning Linux.
+- **projects/** – Real-world projects built to apply Linux concepts.
 
-- [ ] Create a system info script that displays OS, memory, disk usage
-- [ ] Set up a new user with specific permissions
-- [ ] Write a log rotation script
+---
 
-## Resources
+## Topics Covered
 
-- [Linux Command Cheat Sheet](https://github.com/coderco-learning/dotfiles)
-- Man pages: `man <command>`
+- Linux File System
+- Users and Groups
+- File Permissions
+- Package Management
+- Process Management
+- Shells and Environment Variables
+- Networking Basics
+- SSH
+- Essential Linux Commands
+- Linux Best Practices
+
+---
+
+## Goal
+
+The goal of this module is to build a strong foundation in Linux administration, providing the skills needed for Bash scripting, automation and future DevOps technologies such as Docker, Kubernetes and Terraform.
