@@ -1,10 +1,8 @@
-# DevOps Journey 🚀
+# DevOps Journey
 
-Welcome to my DevOps learning journey.
+Welcome to my DevOps learning repository.
 
-This repository documents my progression from IT Support into Cloud Engineering and, ultimately, Platform/DevOps Engineering. It contains my notes, hands-on labs, projects and practical exercises completed as I work through a structured DevOps roadmap.
-
-My goal isn't just to complete courses—it's to understand the technologies, build real projects and develop the skills required to design, deploy and support modern infrastructure.
+This repository documents my hands-on journey through Linux, Bash, Git, Networking, Docker and the rest of the DevOps roadmap. Every module contains my own notes, completed labs and practical projects as I continue building real-world skills.
 
 ---
 
@@ -22,79 +20,47 @@ My goal isn't just to complete courses—it's to understand the technologies, bu
 09-kubernetes/
 ```
 
-Each module contains one or more of the following:
-
-- 📝 Notes
-- 🧪 Practical Labs
-- 💻 Hands-on Projects
-- 📚 Useful Resources
-
 ---
 
 # Current Progress
 
-| Module | Status |
-|---------|--------|
-| Linux | ✅ Complete |
-| Bash | ✅ Complete |
-| Git | ✅ Complete |
-| Networking | ✅ Complete |
-| Docker | 🔄 In Progress |
-| AWS | ⏳ Coming Soon |
-| Terraform | ⏳ Coming Soon |
-| CI/CD | ⏳ Coming Soon |
-| Kubernetes | ⏳ Coming Soon |
+| Module     | Status      |
+| ---------- | ----------- |
+| Linux      | Complete    |
+| Bash       | Complete    |
+| Git        | Complete    |
+| Networking | Complete    |
+| Docker     | Complete    |
+| AWS        | Next        |
+| Terraform  | Coming soon |
+| CI/CD      | Coming soon |
+| Kubernetes | Coming soon |
 
 ---
 
 # Why I Built This Repository
 
-I created this repository to hold myself accountable while learning DevOps and Cloud technologies.
+Rather than simply completing courses, I wanted to document everything I learn through notes, practical labs and hands-on projects.
 
-Rather than simply completing courses, I document what I learn through my own notes, practical labs and projects. This allows me to reinforce my understanding while creating a public record of my progress.
-
-As I continue learning, I expect this repository to evolve from a study resource into a collection of practical engineering knowledge and projects.
+This repository serves as both my learning journal and a portfolio that grows as I progress through the DevOps roadmap.
 
 ---
 
 # Technologies Covered
 
-### Completed
-
 - Linux
 - Bash
-- Git
-- Networking
+- Git and GitHub
+- Networking and DNS
+- AWS EC2 and Amazon ECR
+- Cloudflare
+- NGINX
+- Docker and Docker Compose
 
-### Currently Learning
-
-- Docker
-
-### Coming Next
-
-- AWS
-- Terraform
-- CI/CD
-- Kubernetes
-
----
-
-# About Me
-
-I'm currently working as an IT Technician in the Infrastructure team at ConnexAI, where I support Windows, macOS and Linux environments alongside cloud services, networking and enterprise infrastructure.
-
-Outside of work, I'm focused on developing the practical skills required to transition into Cloud Engineering and eventually Platform/DevOps Engineering.
+More technologies will be added as I continue through the roadmap.
 
 ---
 
 # Acknowledgements
 
-This repository follows the CoderCo DevOps roadmap.
-
-While the learning path is inspired by the course, all notes, labs, projects and documentation have been completed and written by me throughout my learning journey.
-
----
-
-⭐ Thanks for visiting my repository.
-
-If you're also learning DevOps, I hope you find something useful here.
+This repository follows the CoderCo DevOps roadmap. The structure is inspired by the course, while the notes, labs, projects and documentation are my own work completed throughout my learning journey.
